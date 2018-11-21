@@ -1,0 +1,7 @@
+pip install wheel
+
+cmd ~  pip list  ， 出现 wheel ，证明wheel插件安装成功！
+
+http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame
+
+wheel install pygame-1.9.2a0-cp27-none-win_amd64.whl

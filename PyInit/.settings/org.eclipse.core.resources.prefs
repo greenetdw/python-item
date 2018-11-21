@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//init/clazz.py=UTF-8
+encoding//init/db-init.py=UTF-8
+encoding//init/except.py=UTF-8
+encoding//init/fbis.py=UTF-8
+encoding//orm/peewee_orm.py=UTF-8

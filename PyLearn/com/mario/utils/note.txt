@@ -1,0 +1,4 @@
+
+#db =  MySQLdb.connect(host='gz-cdbrg-kk714ixn.sql.tencentcdb.com',port=62540,user='mario',passwd='mario123456',db='assacs',charset='utf8')
+
+

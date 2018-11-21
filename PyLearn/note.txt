@@ -1,0 +1,14 @@
+
+建立项目
+django-admin startproject PyLearn
+
+建立应用
+python manage.py startapp app
+
+python manage.py runserver 0.0.0.0:8088
+
+python manage.py makemigrations app 将models.py定义的数据表转换成数据库生成脚本的过程
+python manage.py migrate 将makemigrations在migrations中生成的临时文件，同步到数据库
+
+python manage.py createsuperuser
+

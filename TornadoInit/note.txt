@@ -1,0 +1,6 @@
+
+Ethereum-Wallet-win64-0-8-10
+Mist-win64-0-8-10
+
+checksum mismatch in downloaded node
+please install the geth node version 1.8.15 manually

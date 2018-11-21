@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DjangoInit/DjangoInit.iml" filepath="$PROJECT_DIR$/DjangoInit/DjangoInit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlaskInit/FlaskInit.iml" filepath="$PROJECT_DIR$/FlaskInit/FlaskInit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FreshData/FreshData.iml" filepath="$PROJECT_DIR$/FreshData/FreshData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PyInit/PyInit.iml" filepath="$PROJECT_DIR$/PyInit/PyInit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PyLearn/PyLearn.iml" filepath="$PROJECT_DIR$/PyLearn/PyLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TWebChat/TWebChat.iml" filepath="$PROJECT_DIR$/TWebChat/TWebChat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TornadoInit/TornadoInit.iml" filepath="$PROJECT_DIR$/TornadoInit/TornadoInit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dailyfresh/dailyfresh.iml" filepath="$PROJECT_DIR$/dailyfresh/dailyfresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flask_prj/flask_prj.iml" filepath="$PROJECT_DIR$/flask_prj/flask_prj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/python-item.iml" filepath="$PROJECT_DIR$/python-item.iml" />
+    </modules>
+  </component>
+</project>
